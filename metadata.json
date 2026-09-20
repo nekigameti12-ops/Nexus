@@ -1,0 +1,7 @@
+{
+  "name": "NEXUS AI",
+  "description": "Futuristic male AI personal assistant and agent platform. Think. Connect. Execute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
